@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 5ed1704a25f4d31498bf996d414a4c9a
+timeCreated: 1501993909
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Qiuyou
+    21300002: ren
+    21300004: youdian
+    21300006: youkou
+    21300008: ZhongqiuXia
+    21300010: ZhongShang
+    21300012: ZhongYou
+    21300014: ZhongZuo
+    21300016: zodian
+    21300018: zuokou
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Qiuyou
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 995
+        width: 724
+        height: 1052
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ren
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1030
+        width: 960
+        height: 1017
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.5019666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: youdian
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1390
+        width: 232
+        height: 213
+      alignment: 9
+      pivot: {x: 0.50431037, y: 0.5093897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: youkou
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1412
+        width: 457
+        height: 376
+      alignment: 9
+      pivot: {x: 0.49671772, y: 0.50664896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ZhongqiuXia
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 163
+        width: 819
+        height: 871
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ZhongShang
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1601
+        width: 341
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ZhongYou
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 292
+        width: 571
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ZhongZuo
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 680
+        width: 536
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zodian
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 804
+        width: 222
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5126263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zuokou
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 669
+        width: 472
+        height: 381
+      alignment: 9
+      pivot: {x: 0.49788135, y: 0.49475065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

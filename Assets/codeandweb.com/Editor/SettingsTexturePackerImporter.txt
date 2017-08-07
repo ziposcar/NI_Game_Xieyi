@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Picture/bg/Chapter2/MapChapter2.tpsheet
+- Assets/Picture/bg/MapChapter1.tpsheet
+- Assets/Picture/tools/chunlian/Chunlian.tpsheet
+- Assets/Picture/tools/Tools.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Picture/bg/Chapter2/MapChapter2.png
+- Assets/Picture/bg/MapChapter1.png
+- Assets/Picture/tools/chunlian/Chunlian.png
+- Assets/Picture/tools/Tools.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
